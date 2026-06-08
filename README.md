@@ -1,2 +1,1 @@
-# juvinallronnie.github.io
-Professional Summary 
+I’m targeting entry-level to junior GRC Analyst roles. This portfolio demonstrates hands-on GRC capability in performing risk assessments, control gap analysis, vulnerability assessments, and cybersecurity maturity evaluations aligned with NIST CSF, NIST SP 800-53, NIST SP 800-30, and CIS Benchmarks
